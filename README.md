@@ -25,7 +25,7 @@ Building efficient and scalable web solutions is my focus as a backend developer
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on [php questions recruitment](https://github.com/geekGroveOfficial/php-questions-recruitment)  
+- 🔭 I’m currently working on [php questions recruitment](https://geekgroveofficial.github.io/php-questions-recruitment/)  
   
 
 - 🌱 I’m currently learning Go lang.  
