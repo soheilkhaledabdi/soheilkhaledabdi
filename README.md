@@ -1,5 +1,4 @@
-## Hey 👋, I'm Soheil!  
-  
+## Hey 👋, I'm Soheil!
 
 <a href="https://linkedin.com/in/soheilkhaledabadi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -12,32 +11,23 @@
 </a>
 <a href="https://stackoverflow.com/users/18247370/soheil-khaledabadi" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-  
-
-
+</a>
 
 ### Glad to see you here!  
-Building efficient and scalable web solutions is my focus as a backend developer. My goal is to deliver high-quality software that meets the needs of users by following best practices and clean code. 🧑‍💻  
-  
+Building efficient and scalable web solutions is my focus as a backend developer. My goal is to deliver high-quality software that meets the needs of users by following best practices and clean code. 🧑‍💻
 
-<br/>  
-
+<br/>
 
 ## Rapidfire  
-- 🔭 I’m currently working on [php questions recruitment](https://geekgroveofficial.github.io/php-questions-recruitment/)  
-  
 
-- 🌱 I’m currently learning Go lang.  
-  
+- 🎓 Currently studying Computer Science at Technical College of Rajaei Kashan.
+- 🔭 Working at Asrez Company.
+- 📚 Preparing PHP Questions Recruitment.
+- 🌱 Actively learning GoLang to expand my skill set.
+- 💬 Feel free to ask me anything about backend stacks and related technologies.
+- ⚡ Fun fact: I always keep night shift mode on for my screens.
 
-- ❓ Feel free to ask me about anything related to backend stacks and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-<br/>  
-
+<br/>
 
 ## Languages and Tools  
 <div align="center">  
