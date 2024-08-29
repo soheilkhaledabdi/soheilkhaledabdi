@@ -13,10 +13,7 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 
-### Glad to see you here!  
 Building efficient and scalable web solutions is my focus as a backend developer. My goal is to deliver high-quality software that meets the needs of users by following best practices and clean code. 🧑‍💻
-
-<br/>
 
 ## Rapidfire  
 
@@ -27,9 +24,8 @@ Building efficient and scalable web solutions is my focus as a backend developer
 - 💬 Feel free to ask me anything about backend stacks and related technologies.
 - ⚡ Fun fact: I always keep night shift mode on for my screens.
 
-<br/>
+## Languages and Tools
 
-## Languages and Tools  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>  
@@ -48,13 +44,6 @@ Building efficient and scalable web solutions is my focus as a backend developer
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="40" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="40" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="40" /></a>  
-</div>  
-
-<br/>  
-
-
-  
-
-<br/>  
+</div>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=soheilkhaledabdi&&style=flat-square)  
