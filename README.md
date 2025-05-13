@@ -17,8 +17,6 @@ Building efficient and scalable web solutions is my focus as a backend developer
 
 ## Rapidfire  
 
-- 🎓 Currently studying Computer Science at Technical College of Rajaei Kashan.
-- 🔭 Working at Asrez Company.
 - 📚 Preparing PHP Questions Recruitment.
 - 🌱 Actively learning GoLang to expand my skill set.
 - 💬 Feel free to ask me anything about backend stacks and related technologies.
